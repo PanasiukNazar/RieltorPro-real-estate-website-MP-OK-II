@@ -11533,7 +11533,7 @@ h5,
     box-shadow: 0px 0px 27px -16px rgba(0, 0, 0, 0.75);
     border: none;
 }
-.services-2:hover .icon span {
+.services-2:hover .icon h2 {
     color: #fff;
 }
 .services-2:hover .media-body {
